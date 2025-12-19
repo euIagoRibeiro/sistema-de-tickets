@@ -1,0 +1,5 @@
+{
+  "name": "TicketFlow",
+  "description": "A modern, responsive internal ticket management system with a unified chat interface, SLA tracking, and operator dashboard.",
+  "requestFramePermissions": []
+}
